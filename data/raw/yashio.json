@@ -1,0 +1,7159 @@
+{
+  "metadata": {
+    "title": "橋梁データの一覧",
+    "detail": "橋梁データの一覧",
+    "parameters": {
+      "city": "112348",
+      "limit": 170,
+      "offset": 0
+    }
+  },
+  "resultset": {
+    "is_error": false,
+    "count": 170,
+    "offset": 0,
+    "limit": 170
+  },
+  "result": [
+    {
+      "shisetsu_id": "35.48382,139.51397",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-25T15:07:35+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.0,
+        "fukuin": 3.0,
+        "shisetsu": {
+          "meisyou": "市道6093号線橋",
+          "furigana": "ｼﾄﾞｳ6093ｺﾞｳｾﾝｷｮｳ"
+        },
+        "rosen": {
+          "meisyou": "市道6093号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.810600,
+          "keido": 139.861010
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "3"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "3"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.79552,139.82329",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "2001",
+        "kyouchou": 40.5,
+        "fukuin": 20.8,
+        "shisetsu": {
+          "meisyou": "浮花橋",
+          "furigana": "(ｳｷﾊﾅﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "県道平方東京線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.795520,
+          "keido": 139.823290
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.79957,139.84619",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 5.0,
+        "fukuin": 8.3,
+        "shisetsu": {
+          "meisyou": "市道7097号線橋",
+          "furigana": "(ｼﾄﾞｳ7097ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道7097号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.799570,
+          "keido": 139.846190
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80031,139.85221",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-02-12T16:28:46+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1969",
+        "kyouchou": 135.5,
+        "fukuin": 1.5,
+        "shisetsu": {
+          "meisyou": "潮止橋橋側歩道橋(下り)",
+          "furigana": "(ｼｵﾄﾞﾒﾊﾞｼｷｮｳｿｸﾎﾄﾞｳｷｮｳ(ｸﾀﾞﾘ))"
+        },
+        "rosen": {
+          "meisyou": "県道松戸草加線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.800310,
+          "keido": 139.852210
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "1"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "3"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80032,139.85222",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-02-12T16:26:33+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1969",
+        "kyouchou": 135.5,
+        "fukuin": 1.5,
+        "shisetsu": {
+          "meisyou": "潮止橋橋側歩道橋(上り)",
+          "furigana": "(ｼｵﾄﾞﾒﾊﾞｼｷｮｳｿｸﾎﾄﾞｳｷｮｳ(ﾉﾎﾞﾞﾘ))"
+        },
+        "rosen": {
+          "meisyou": "県道松戸草加線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.800370,
+          "keido": 139.852290
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "1"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "3"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80054,139.84660",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 5.0,
+        "fukuin": 8.3,
+        "shisetsu": {
+          "meisyou": "市道7096号線橋",
+          "furigana": "(ｼﾄﾞｳ7096ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道7096号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.800540,
+          "keido": 139.846600
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80078,139.85162",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-25T18:04:05+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1957",
+        "kyouchou": 135.9,
+        "fukuin": 6.6,
+        "shisetsu": {
+          "meisyou": "潮止橋",
+          "furigana": "(ｼｵﾄﾞﾒﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "県道松戸草加線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.800340,
+          "keido": 139.852250
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "1"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "3"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80081,139.83928",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 6.0,
+        "fukuin": 5.0,
+        "shisetsu": {
+          "meisyou": "市道7074号線橋",
+          "furigana": "(ｼﾄﾞｳ7074ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道7074号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.800810,
+          "keido": 139.839280
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80083,139.83972",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 6.0,
+        "fukuin": 18.7,
+        "shisetsu": {
+          "meisyou": "市道0830号線橋",
+          "furigana": "(ｼﾄﾞｳ830ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道0830号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.800830,
+          "keido": 139.839720
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80109,139.82737",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 8.5,
+        "shisetsu": {
+          "meisyou": "市道4117号線橋",
+          "furigana": "(ｼﾄﾞｳ4117ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道4117号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.801090,
+          "keido": 139.827370
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80151,139.84704",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 5.0,
+        "fukuin": 7.3,
+        "shisetsu": {
+          "meisyou": "市道7093号線橋",
+          "furigana": "(ｼﾄﾞｳ7093ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道7093号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.801510,
+          "keido": 139.847040
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80267,139.84750",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 9.9,
+        "shisetsu": {
+          "meisyou": "市道0462号線橋",
+          "furigana": "(ｼﾄﾞｳ270ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道0462号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.802670,
+          "keido": 139.847500
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80347,139.84806",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 6.0,
+        "fukuin": 19.7,
+        "shisetsu": {
+          "meisyou": "市道9045号線橋",
+          "furigana": "(ｼﾄﾞｳ9045ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道9045号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.803470,
+          "keido": 139.848060
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80412,139.84821",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-25T11:36:26+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1968",
+        "kyouchou": 7.0,
+        "fukuin": 16.9,
+        "shisetsu": {
+          "meisyou": "伊勢野二号橋",
+          "furigana": "(ｲｾﾉﾆｺﾞｳﾊｼ)"
+        },
+        "rosen": {
+          "meisyou": "県道松戸草加線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.804080,
+          "keido": 139.848230
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80417,139.85134",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.0,
+        "fukuin": 8.0,
+        "shisetsu": {
+          "meisyou": "市道6221号線橋",
+          "furigana": "(ｼﾄﾞｳ6221ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道6221号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.804170,
+          "keido": 139.851340
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80427,139.82733",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.0,
+        "fukuin": 4.3,
+        "shisetsu": {
+          "meisyou": "市道4092号線橋",
+          "furigana": "(ｼﾄﾞｳ4092ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道4092号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.804270,
+          "keido": 139.827330
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80468,139.82731",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.0,
+        "fukuin": 4.4,
+        "shisetsu": {
+          "meisyou": "市道4091号線橋",
+          "furigana": "(ｼﾄﾞｳ4091ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道4091号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.804680,
+          "keido": 139.827310
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80475,139.84842",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 7.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道10060号線橋",
+          "furigana": "(ｼﾄﾞｳ10060ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道10060号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.804750,
+          "keido": 139.848420
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80490,139.82729",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.0,
+        "fukuin": 3.5,
+        "shisetsu": {
+          "meisyou": "市道4075号線橋",
+          "furigana": "(ｼﾄﾞｳ4075ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道4075号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.804900,
+          "keido": 139.827290
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80542,139.84872",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1984",
+        "kyouchou": 5.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道10055号線",
+          "furigana": "(ｼﾄﾞｳ10055ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道10055号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.805420,
+          "keido": 139.848720
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80589,139.84892",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 7.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道10054号線橋",
+          "furigana": "(ｼﾄﾞｳ10054ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道10054号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.805890,
+          "keido": 139.848920
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80639,139.84914",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1984",
+        "kyouchou": 5.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道10053号線橋",
+          "furigana": "(ｼﾄﾞｳ10053ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道10053号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.806390,
+          "keido": 139.849140
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80689,139.84936",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 7.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道10052号線橋",
+          "furigana": "(ｼﾄﾞｳ10052ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道10052号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.806890,
+          "keido": 139.849360
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80712,139.83992",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5229号線橋",
+          "furigana": "(ｼﾄﾞｳ5229ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5229号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.807120,
+          "keido": 139.839920
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80739,139.84958",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1984",
+        "kyouchou": 5.0,
+        "fukuin": 7.0,
+        "shisetsu": {
+          "meisyou": "市道10051号線橋",
+          "furigana": "(ｼﾄﾞｳ10051ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道10051号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.807390,
+          "keido": 139.849580
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80772,139.83860",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-02-12T15:40:47+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1984",
+        "kyouchou": 14.7,
+        "fukuin": 13.8,
+        "shisetsu": {
+          "meisyou": "葛西橋(上り)",
+          "furigana": "(ｶｻｲﾊﾞｼ(ﾉﾎﾞﾘ))"
+        },
+        "rosen": {
+          "meisyou": "県道八潮三郷線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.807650,
+          "keido": 139.838530
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80782,139.83835",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-02-12T15:37:46+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1984",
+        "kyouchou": 14.7,
+        "fukuin": 15.8,
+        "shisetsu": {
+          "meisyou": "葛西橋(下り)",
+          "furigana": "(ｶｻｲﾊﾞｼ(ｸﾀﾞﾘ))"
+        },
+        "rosen": {
+          "meisyou": "県道八潮三郷線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.807780,
+          "keido": 139.838280
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80790,139.84027",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 4.0,
+        "shisetsu": {
+          "meisyou": "市道5225号線橋",
+          "furigana": "(ｼﾄﾞｳ5225ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5225号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.807900,
+          "keido": 139.840270
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80795,139.83833",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5221号線橋",
+          "furigana": "(ｼﾄﾞｳ5221ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5221号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.807950,
+          "keido": 139.838330
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80819,139.84986",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 10.0,
+        "fukuin": 24.2,
+        "shisetsu": {
+          "meisyou": "市道0360号線橋",
+          "furigana": "(ｼﾄﾞｳ0360ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道0360号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.808190,
+          "keido": 139.849860
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80833,139.84028",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 5.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "無名橋",
+          "furigana": "(ﾑﾒｲｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5223号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.808330,
+          "keido": 139.840280
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2022,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80847,139.83055",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:18:24+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.1,
+        "fukuin": 4.0,
+        "shisetsu": {
+          "meisyou": "市道5324号線橋",
+          "furigana": "(ｼﾄﾞｳｺﾞｻﾝﾆﾖﾝｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5324号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.808470,
+          "keido": 139.830550
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80859,139.82421",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.0,
+        "fukuin": 15.2,
+        "shisetsu": {
+          "meisyou": "市道4067号線橋",
+          "furigana": "(ｼﾄﾞｳ4067ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道4067号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.808590,
+          "keido": 139.824210
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80861,139.83667",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1979",
+        "kyouchou": 20.0,
+        "fukuin": 12.8,
+        "shisetsu": {
+          "meisyou": "大原橋",
+          "furigana": "(ﾀﾞｲﾊﾞﾗﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道5073号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.808610,
+          "keido": 139.836670
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "1"
+        },
+        "nendo": 2022,
+        "kiroku": {
+          "hantei_kubun": "3"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80863,139.83861",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-05-22T13:33:55+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5218-1号線橋",
+          "furigana": "(ｼﾄﾞｳ5218-1ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5218号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.808630,
+          "keido": 139.838610
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80928,139.84008",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 7.6,
+        "shisetsu": {
+          "meisyou": "市道5349号線橋",
+          "furigana": "(ｼﾄﾞｳ5349ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5349号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.809280,
+          "keido": 139.840080
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80958,139.84000",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-05-22T13:34:15+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1983",
+        "kyouchou": 5.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5218-2号線橋",
+          "furigana": "(ｼﾄﾞｳ5218-2ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5218号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.809580,
+          "keido": 139.840000
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80970,139.85317",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "2007",
+        "kyouchou": 2.0,
+        "fukuin": 5.5,
+        "shisetsu": {
+          "meisyou": "市道6255号線橋",
+          "furigana": "(ｼﾄﾞｳ6255ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道6255号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.809700,
+          "keido": 139.853170
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.80998,139.83994",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 7.5,
+        "shisetsu": {
+          "meisyou": "市道5339号線橋",
+          "furigana": "(ｼﾄﾞｳ5339ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5339号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.809980,
+          "keido": 139.839940
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81009,139.83813",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.0,
+        "fukuin": 8.0,
+        "shisetsu": {
+          "meisyou": "市道5212-1号線橋",
+          "furigana": "(ｼﾄﾞｳ5212-1ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5212号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.810090,
+          "keido": 139.838130
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81035,139.85088",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1985",
+        "kyouchou": 5.0,
+        "fukuin": 6.8,
+        "shisetsu": {
+          "meisyou": "市道0620号線橋",
+          "furigana": "(ｼﾄﾞｳ620ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道0620号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.810350,
+          "keido": 139.850880
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81038,139.83978",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 8.0,
+        "shisetsu": {
+          "meisyou": "市道5212-2号線橋",
+          "furigana": "(ｼﾄﾞｳ5212-2ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5212号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.810380,
+          "keido": 139.839780
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81052,139.84093",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.0,
+        "fukuin": 12.0,
+        "shisetsu": {
+          "meisyou": "市道0740号線橋",
+          "furigana": "(ｼﾄﾞｳ740ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道0740号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.810520,
+          "keido": 139.840930
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81058,139.82638",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 8.4,
+        "shisetsu": {
+          "meisyou": "市道4037号線橋",
+          "furigana": "(ｼﾄﾞｳ4037ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道4037号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.810580,
+          "keido": 139.826380
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81069,139.84144",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.0,
+        "fukuin": 8.0,
+        "shisetsu": {
+          "meisyou": "市道5210号線橋",
+          "furigana": "(ｼﾄﾞｳ5210ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5210号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.810690,
+          "keido": 139.841440
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81125,139.85171",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1985",
+        "kyouchou": 5.0,
+        "fukuin": 5.1,
+        "shisetsu": {
+          "meisyou": "市道6179号線橋",
+          "furigana": "(ｼﾄﾞｳ6179ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道6179号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.811250,
+          "keido": 139.851710
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81128,139.83954",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5202号線橋",
+          "furigana": "(ｼﾄﾞｳ5202ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5202号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.811280,
+          "keido": 139.839540
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81172,139.83196",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-02-12T16:18:40+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1971",
+        "kyouchou": 14.5,
+        "fukuin": 1.7,
+        "shisetsu": {
+          "meisyou": "境橋側道橋(左)",
+          "furigana": "(ｻｶｲﾊﾞｼｿｸﾄﾞｳｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "県道平方東京線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.811770,
+          "keido": 139.831980
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81175,139.83189",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-02-12T16:12:24+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1960",
+        "kyouchou": 14.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "境橋",
+          "furigana": "(ｻｶｲﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "県道平方東京線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.811810,
+          "keido": 139.831920
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81202,139.84103",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T17:08:36+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5204号線橋",
+          "furigana": "(ｼﾄﾞｳｺﾞﾆｾﾞﾛﾖﾝｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5204号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.812020,
+          "keido": 139.841030
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81211,139.83899",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5201号線橋",
+          "furigana": "(ｼﾄﾞｳ5201ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5201号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.812110,
+          "keido": 139.838990
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81230,139.83758",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.0,
+        "fukuin": 12.0,
+        "shisetsu": {
+          "meisyou": "市道0720-1号線橋",
+          "furigana": "(ｼﾄﾞｳ720-1ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道0720号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.812300,
+          "keido": 139.837580
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81231,139.85178",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1985",
+        "kyouchou": 4.0,
+        "fukuin": 5.3,
+        "shisetsu": {
+          "meisyou": "市道6180号線橋",
+          "furigana": "(ｼﾄﾞｳ6180ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道6180号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.812310,
+          "keido": 139.851780
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81251,139.83873",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 12.0,
+        "shisetsu": {
+          "meisyou": "市道0720-2号線橋",
+          "furigana": "(ｼﾄﾞｳ720-2ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道0720号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.812510,
+          "keido": 139.838730
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81274,139.83018",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-31T16:16:23+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.4,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5320号線橋",
+          "furigana": "(ｼﾄﾞｳｺﾞｻﾝﾆｾﾞﾛｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5320号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.812740,
+          "keido": 139.830180
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81278,139.83028",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1978",
+        "kyouchou": 14.2,
+        "fukuin": 7.2,
+        "shisetsu": {
+          "meisyou": "新境橋",
+          "furigana": "(ｼﾝｻｶｲﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道5315号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.812780,
+          "keido": 139.830280
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81286,139.82921",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T17:07:51+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.6,
+        "fukuin": 11.0,
+        "shisetsu": {
+          "meisyou": "市道5307号線橋",
+          "furigana": "(ｼﾄﾞｳｺﾞｻﾝｾﾞﾛﾅﾅｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5307号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.812860,
+          "keido": 139.829210
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81287,139.84080",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.0,
+        "fukuin": 12.0,
+        "shisetsu": {
+          "meisyou": "市道0720-3号線橋",
+          "furigana": "(ｼﾄﾞｳ720-3ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道0720号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.812870,
+          "keido": 139.840800
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81294,139.83845",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5162号線橋",
+          "furigana": "(ｼﾄﾞｳ5162ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5162号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.812940,
+          "keido": 139.838450
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81307,139.83643",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5180号線橋",
+          "furigana": "(ｼﾄﾞｳ5180ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5180号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.813070,
+          "keido": 139.836430
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81336,139.83818",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5161号線橋",
+          "furigana": "(ｼﾄﾞｳ5161ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5161号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.813360,
+          "keido": 139.838180
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81338,139.82918",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:51:39+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5314号線橋",
+          "furigana": "(ｼﾄﾞｳｺﾞｻﾝｲﾁﾖﾝｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5314号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.813380,
+          "keido": 139.829180
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81376,139.83790",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5160号線橋",
+          "furigana": "(ｼﾄﾞｳ5160ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5160号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.813760,
+          "keido": 139.837900
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81401,139.82923",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-31T16:16:49+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5313号線橋",
+          "furigana": "(ｼﾄﾞｳｺﾞｻﾝｲﾁｻﾝｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5313号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.814010,
+          "keido": 139.829230
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81465,139.83734",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 4.0,
+        "shisetsu": {
+          "meisyou": "市道5159号線橋",
+          "furigana": "(ｼﾄﾞｳ5159ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5159号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.814650,
+          "keido": 139.837340
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81486,139.82908",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:50:25+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5309号線橋",
+          "furigana": "(ｼﾄﾞｳｺﾞｻﾝｾﾞﾛｷｭｳｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5309号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.814860,
+          "keido": 139.829080
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81542,139.82891",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:50:01+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.0,
+        "fukuin": 8.0,
+        "shisetsu": {
+          "meisyou": "市道5306号線橋",
+          "furigana": "(ｼﾄﾞｳｺﾞｻﾝｾﾞﾛﾛｸｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5306号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.815420,
+          "keido": 139.828910
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81556,139.83000",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1981",
+        "kyouchou": 13.7,
+        "fukuin": 9.2,
+        "shisetsu": {
+          "meisyou": "中馬場橋",
+          "furigana": "(ﾅｶﾊﾞﾝﾊﾞﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道5306号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.815560,
+          "keido": 139.830000
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81576,139.82881",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:49:34+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.1,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5305号線橋",
+          "furigana": "(ｼﾄﾞｳｺﾞｻﾝｾﾞﾛｺﾞｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5305号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.815760,
+          "keido": 139.828810
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81583,139.82306",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1985",
+        "kyouchou": 41.0,
+        "fukuin": 3.0,
+        "shisetsu": {
+          "meisyou": "西袋橋",
+          "furigana": "(ﾆｼﾌﾞｸﾛﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道4023号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.815830,
+          "keido": 139.823060
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2022,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81585,139.83678",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5151号線橋",
+          "furigana": "(ｼﾄﾞｳ5151ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5151号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.815850,
+          "keido": 139.836780
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81641,139.82860",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:48:39+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.5,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5302号線橋",
+          "furigana": "(ｼﾄﾞｳｺﾞｻﾝｾﾞﾛﾆｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5302号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.816410,
+          "keido": 139.828600
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81663,139.82785",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:47:52+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.7,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5301号線橋",
+          "furigana": "(ｼﾄﾞｳｺﾞｻﾝｾﾞﾛｲﾁｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5301号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.816630,
+          "keido": 139.827850
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81684,139.83653",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5143号線橋",
+          "furigana": "(ｼﾄﾞｳ5143ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5143号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.816840,
+          "keido": 139.836530
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81741,139.82978",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 15.3,
+        "fukuin": 1.8,
+        "shisetsu": {
+          "meisyou": "八幡第二側道橋",
+          "furigana": "(ﾔﾜﾀﾀﾞｲﾆｿｸﾄﾞｳｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道0410号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.817410,
+          "keido": 139.829780
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81748,139.82977",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 14.4,
+        "fukuin": 7.9,
+        "shisetsu": {
+          "meisyou": "八幡橋",
+          "furigana": "(ﾔﾜﾀﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道0410号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.817480,
+          "keido": 139.829770
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81755,139.82976",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1984",
+        "kyouchou": 14.2,
+        "fukuin": 3.3,
+        "shisetsu": {
+          "meisyou": "八幡橋側道橋",
+          "furigana": "(ﾔﾜﾀｿｸﾄﾞｳｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道0410号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.817550,
+          "keido": 139.829760
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81811,139.82444",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:40:56+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.9,
+        "fukuin": 4.5,
+        "shisetsu": {
+          "meisyou": "市道3109号線橋",
+          "furigana": "(ｼﾄﾞｳｻﾝｲﾁｾﾞﾛｷｭｳｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道3109号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.818110,
+          "keido": 139.824440
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81839,139.83593",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T17:07:10+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.7,
+        "fukuin": 5.9,
+        "shisetsu": {
+          "meisyou": "市道5046号線橋",
+          "furigana": "(ｼﾄﾞｳｺﾞｾﾞﾛﾖﾝﾛｸｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5046号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.818390,
+          "keido": 139.835930
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81875,139.83573",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T17:06:41+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.3,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5045号線橋",
+          "furigana": "(ｼﾄﾞｳｺﾞｾﾞﾛﾖﾝｺﾞｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5045号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.818750,
+          "keido": 139.835730
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81914,139.83551",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T17:06:17+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.7,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5043号線橋",
+          "furigana": "(ｼﾄﾞｳｺﾞｾﾞﾛﾖﾝｻﾝｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5043号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.819140,
+          "keido": 139.835510
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81917,139.82944",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1980",
+        "kyouchou": 13.8,
+        "fukuin": 7.2,
+        "shisetsu": {
+          "meisyou": "観音寺橋",
+          "furigana": "(ｶﾝﾉﾝｼﾞﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道5008号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.819170,
+          "keido": 139.829440
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.81971,139.83521",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T17:05:35+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.6,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5042号線橋",
+          "furigana": "(ｼﾄﾞｳｺﾞｾﾞﾛﾖﾝﾆｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5042号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.819710,
+          "keido": 139.835210
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82022,139.82940",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-25T19:45:08+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1978",
+        "kyouchou": 13.9,
+        "fukuin": 22.1,
+        "shisetsu": {
+          "meisyou": "馬場新橋",
+          "furigana": "(ﾊﾞﾝﾊﾞｼﾝﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "県道松戸草加線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.820220,
+          "keido": 139.829490
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "1"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "3"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82037,139.83500",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T17:05:05+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.6,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道5039号線橋",
+          "furigana": "(ｼﾄﾞｳｺﾞｾﾞﾛｻﾝｷｭｳｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道5039号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.820370,
+          "keido": 139.835000
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82139,139.82083",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1978",
+        "kyouchou": 49.0,
+        "fukuin": 2.0,
+        "shisetsu": {
+          "meisyou": "宮代橋",
+          "furigana": "(ﾐﾔｼﾛﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道3060号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.821390,
+          "keido": 139.820830
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2022,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82139,139.82814",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:35:37+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.0,
+        "fukuin": 4.0,
+        "shisetsu": {
+          "meisyou": "市道2178号線橋",
+          "furigana": "(ｼﾄﾞｳﾆｲﾁﾅﾅﾊﾁｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道2178号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.821390,
+          "keido": 139.828140
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82144,139.83483",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:36:22+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.6,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道2023号線橋",
+          "furigana": "(ｼﾄﾞｳﾆｾﾞﾛﾆｻﾝｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道2023号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.821440,
+          "keido": 139.834830
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82145,139.85584",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道6017号線橋",
+          "furigana": "(ｼﾄﾞｳ6017ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道6017号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.821450,
+          "keido": 139.855840
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82162,139.82867",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:35:14+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道2175号線橋",
+          "furigana": "(ｼﾄﾞｳﾆｲﾁﾅﾅｺﾞｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道2175号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.821620,
+          "keido": 139.828670
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82167,139.82917",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1964",
+        "kyouchou": 13.0,
+        "fukuin": 6.2,
+        "shisetsu": {
+          "meisyou": "上小橋",
+          "furigana": "(ｶﾐｺﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道2000号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.821670,
+          "keido": 139.829170
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2022,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82185,139.83474",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:39:34+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.6,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道2022号線橋",
+          "furigana": "(ｼﾄﾞｳﾆｾﾞﾛﾆﾆｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道2022号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.821850,
+          "keido": 139.834740
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82188,139.84048",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-05-22T13:55:48+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.1,
+        "fukuin": 8.0,
+        "shisetsu": {
+          "meisyou": "市道2034号線橋",
+          "furigana": "ｼﾄﾞｳ2034ｺﾞｳｾﾝｷｮｳ"
+        },
+        "rosen": {
+          "meisyou": "市道2034号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": ""
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.821880,
+          "keido": 139.840480
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "9"
+        },
+        "nendo": 0,
+        "kiroku": {
+          "hantei_kubun": "8"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82232,139.83458",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:39:05+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.0,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道2021-1号線橋",
+          "furigana": "(ｼﾄﾞｳﾆｾﾞﾛﾆｲﾁ-ｲﾁｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道2021号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.822320,
+          "keido": 139.834580
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82284,139.83430",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-02-12T16:13:10+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1968",
+        "kyouchou": 4.7,
+        "fukuin": 10.2,
+        "shisetsu": {
+          "meisyou": "西岩橋",
+          "furigana": "(ﾆｼｲﾜﾊｼ)"
+        },
+        "rosen": {
+          "meisyou": "県道平方東京線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.822850,
+          "keido": 139.834330
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82306,139.85097",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1980",
+        "kyouchou": 515.9,
+        "fukuin": 6.4,
+        "shisetsu": {
+          "meisyou": "共和橋（上り）",
+          "furigana": "(ｷﾖｳﾜﾊﾞｼ(ﾉﾎﾞﾘ)"
+        },
+        "rosen": {
+          "meisyou": "県道八潮三郷線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.823060,
+          "keido": 139.850970
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2022,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82315,139.85063",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1980",
+        "kyouchou": 478.3,
+        "fukuin": 6.4,
+        "shisetsu": {
+          "meisyou": "共和橋（下り）",
+          "furigana": "(ｷﾖｳﾜﾊﾞｼ(ｸﾀﾞﾘ)"
+        },
+        "rosen": {
+          "meisyou": "県道八潮三郷線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.823150,
+          "keido": 139.850630
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2022,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82321,139.83937",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-05-22T13:56:18+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.1,
+        "fukuin": 12.5,
+        "shisetsu": {
+          "meisyou": "市道2021-2号線橋",
+          "furigana": "ｼﾄﾞｳ2021-2ｺﾞｳｾﾝｷｮｳ"
+        },
+        "rosen": {
+          "meisyou": "市道2021号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": ""
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.823210,
+          "keido": 139.839370
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "9"
+        },
+        "nendo": 0,
+        "kiroku": {
+          "hantei_kubun": "8"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82333,139.82889",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1982",
+        "kyouchou": 14.0,
+        "fukuin": 10.0,
+        "shisetsu": {
+          "meisyou": "小作田橋",
+          "furigana": "(ｺｻｸﾀﾞﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道2226号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.823330,
+          "keido": 139.828890
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2022,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82446,139.83798",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-02-12T16:15:29+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1965",
+        "kyouchou": 3.5,
+        "fukuin": 6.8,
+        "shisetsu": {
+          "meisyou": "鶴ケ曽根橋",
+          "furigana": "(ﾂﾙｶﾞｿﾈﾊｼ)"
+        },
+        "rosen": {
+          "meisyou": "県道平方東京線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.824460,
+          "keido": 139.837990
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82494,139.84579",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.0,
+        "fukuin": 12.1,
+        "shisetsu": {
+          "meisyou": "市道0566号線橋",
+          "furigana": "(ｼﾄﾞｳ0566ｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道0566号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.824940,
+          "keido": 139.845790
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82500,139.82528",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:34:45+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.0,
+        "fukuin": 11.0,
+        "shisetsu": {
+          "meisyou": "市道2127号線橋",
+          "furigana": "(ｼﾄﾞｳﾆｲﾁﾆﾅﾅｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道2127号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.825000,
+          "keido": 139.825280
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82509,139.83731",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:38:02+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.4,
+        "fukuin": 6.0,
+        "shisetsu": {
+          "meisyou": "市道2279号線橋",
+          "furigana": "(ｼﾄﾞｳﾆﾆﾅﾅｷｭｳｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道2279号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.825090,
+          "keido": 139.837310
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82528,139.82889",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1988",
+        "kyouchou": 14.0,
+        "fukuin": 12.8,
+        "shisetsu": {
+          "meisyou": "小松橋",
+          "furigana": "(ｺﾏﾂﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道0140号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.825280,
+          "keido": 139.828890
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2022,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82601,139.83310",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:21:29+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.1,
+        "fukuin": 22.6,
+        "shisetsu": {
+          "meisyou": "市道0140-1号線橋",
+          "furigana": "(ｼﾄﾞｳｾﾞﾛｲﾁﾖﾝｾﾞﾛ-ｲﾁｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道0140号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.826010,
+          "keido": 139.833100
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82663,139.83577",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:21:58+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.9,
+        "fukuin": 12.0,
+        "shisetsu": {
+          "meisyou": "市道0140-2号線橋",
+          "furigana": "(ｼﾄﾞｳｾﾞﾛｲﾁﾖﾝｾﾞﾛ-ﾆｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道0140号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.826630,
+          "keido": 139.835770
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82722,139.82861",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1980",
+        "kyouchou": 14.0,
+        "fukuin": 4.8,
+        "shisetsu": {
+          "meisyou": "新川西歩道橋",
+          "furigana": "(ｼﾝｶﾜﾆｼﾎﾄﾞｳｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道2281号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.827220,
+          "keido": 139.828610
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2022,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82809,139.81384",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1977",
+        "kyouchou": 58.8,
+        "fukuin": 16.0,
+        "shisetsu": {
+          "meisyou": "手代新橋",
+          "furigana": "(ﾃｼﾛｼﾝﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "県道草加八潮三郷線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.828090,
+          "keido": 139.813840
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82868,139.81560",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:40:12+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.6,
+        "fukuin": 5.5,
+        "shisetsu": {
+          "meisyou": "市道3009号線橋",
+          "furigana": "(ｼﾄﾞｳｻﾝｾﾞﾛｾﾞﾛｷｭｳｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道3009号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.828680,
+          "keido": 139.815600
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.82972,139.82806",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 14.0,
+        "fukuin": 6.9,
+        "shisetsu": {
+          "meisyou": "伊草橋",
+          "furigana": "(ｲｸﾞｻﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道0780号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.829720,
+          "keido": 139.828060
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2022,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.83120,139.82790",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1989",
+        "kyouchou": 14.4,
+        "fukuin": 16.8,
+        "shisetsu": {
+          "meisyou": "伊草天神橋",
+          "furigana": "(ｲｸﾞｻﾃﾝｼﾞﾝﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "県道草加八潮三郷線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.831200,
+          "keido": 139.827900
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.83196,139.82785",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 12.4,
+        "fukuin": 10.0,
+        "shisetsu": {
+          "meisyou": "伊草新橋",
+          "furigana": "ｲｸﾞｻｼﾝﾊﾞｼ"
+        },
+        "rosen": {
+          "meisyou": "市道2302号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": ""
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.831960,
+          "keido": 139.827850
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.83221,139.83172",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-02-12T15:56:25+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "2016",
+        "kyouchou": 4.5,
+        "fukuin": 26.8,
+        "shisetsu": {
+          "meisyou": "八條小橋",
+          "furigana": "(ﾊﾁｼﾞｮｳｺﾊｼ)"
+        },
+        "rosen": {
+          "meisyou": "県道草加八潮三郷線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.832220,
+          "keido": 139.831690
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.83362,139.83161",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:30:38+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1996",
+        "kyouchou": 6.5,
+        "fukuin": 12.7,
+        "shisetsu": {
+          "meisyou": "末廣橋",
+          "furigana": "(ｽｴﾋﾛﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道1353号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.833620,
+          "keido": 139.831610
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.83582,139.83217",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:31:01+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1995",
+        "kyouchou": 6.8,
+        "fukuin": 12.8,
+        "shisetsu": {
+          "meisyou": "布袋橋",
+          "furigana": "(ﾎﾃｲﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道1327号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.835820,
+          "keido": 139.832170
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.83705,139.83288",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:31:27+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1996",
+        "kyouchou": 6.9,
+        "fukuin": 6.3,
+        "shisetsu": {
+          "meisyou": "毘沙門橋",
+          "furigana": "(ﾋﾞｼｬﾓﾝﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道1358号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.837050,
+          "keido": 139.832880
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.83791,139.83332",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:31:51+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1995",
+        "kyouchou": 6.9,
+        "fukuin": 11.8,
+        "shisetsu": {
+          "meisyou": "弁財橋",
+          "furigana": "(ﾍﾞﾝｻﾞｲﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道1321号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.837910,
+          "keido": 139.833320
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.83833,139.83356",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:32:14+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1995",
+        "kyouchou": 6.9,
+        "fukuin": 4.2,
+        "shisetsu": {
+          "meisyou": "恵比寿橋",
+          "furigana": "(ｴﾋﾞｽﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道1319号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.838330,
+          "keido": 139.833560
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.83883,139.83384",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:32:40+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1995",
+        "kyouchou": 6.9,
+        "fukuin": 10.2,
+        "shisetsu": {
+          "meisyou": "福禄橋",
+          "furigana": "(ﾌｸﾛｸﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道1287号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.838830,
+          "keido": 139.833840
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.83951,139.83429",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:33:05+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1995",
+        "kyouchou": 6.9,
+        "fukuin": 9.8,
+        "shisetsu": {
+          "meisyou": "大黒橋",
+          "furigana": "(ﾀﾞｲｺｸﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道1290号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.839510,
+          "keido": 139.834290
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84025,139.83468",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:34:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1995",
+        "kyouchou": 6.9,
+        "fukuin": 8.2,
+        "shisetsu": {
+          "meisyou": "寿老橋",
+          "furigana": "(ｼﾞｭﾛｳﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道1283号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.840250,
+          "keido": 139.834680
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84082,139.84181",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-02-12T14:35:33+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1988",
+        "kyouchou": 27.1,
+        "fukuin": 12.0,
+        "shisetsu": {
+          "meisyou": "幸之宮橋",
+          "furigana": "(ｺｳﾉﾐﾔﾊｼ)"
+        },
+        "rosen": {
+          "meisyou": "県道平方東京線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.840940,
+          "keido": 139.841800
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84095,139.83621",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:23:28+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 4.2,
+        "fukuin": 9.6,
+        "shisetsu": {
+          "meisyou": "市道0110号線橋",
+          "furigana": "(ｼﾄﾞｳｾﾞﾛｲﾁｲﾁｾﾞﾛｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道0110号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.840950,
+          "keido": 139.836210
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84111,139.83972",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1993",
+        "kyouchou": 24.8,
+        "fukuin": 5.2,
+        "shisetsu": {
+          "meisyou": "幸和橋",
+          "furigana": "(ｺｳﾜﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道1394号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.841110,
+          "keido": 139.839720
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84306,139.83861",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1989",
+        "kyouchou": 25.7,
+        "fukuin": 7.2,
+        "shisetsu": {
+          "meisyou": "和平橋",
+          "furigana": "(ﾜﾍｲﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道0500号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.843060,
+          "keido": 139.838610
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84449,139.84109",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-07-03T13:49:22+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1994",
+        "kyouchou": 60.9,
+        "fukuin": 4.0,
+        "shisetsu": {
+          "meisyou": "潮郷橋右岸斜路橋(上り)",
+          "furigana": "(ｼｵｻﾄﾊﾞｼｳｶﾞﾝｼｬﾛｷｮｳ(ﾉﾎﾞﾘ))"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.844490,
+          "keido": 139.841090
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84451,139.84177",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-07-02T15:54:10+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1994",
+        "kyouchou": 238.9,
+        "fukuin": 13.5,
+        "shisetsu": {
+          "meisyou": "潮郷橋(上り)",
+          "furigana": "(ｼｵｻﾄﾊﾞｼ(ﾉﾎﾞﾘ))"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.844510,
+          "keido": 139.841770
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84461,139.84167",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-05-21T18:37:17+09:00",
+      "kanrisya_code": "610000",
+      "syogen": {
+        "kasetsu_nendo": "1991",
+        "kyouchou": 239.0,
+        "fukuin": 10.0,
+        "shisetsu": {
+          "meisyou": "中川橋",
+          "furigana": "(ﾅｶｶﾞﾜﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "常磐自動車道"
+        },
+        "kanrisya": {
+          "kubun": "6",
+          "meisyou": "NEXCO東日本",
+          "jimusyo": "三郷管理事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.844610,
+          "keido": 139.841670
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84471,139.84167",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-05-21T18:37:38+09:00",
+      "kanrisya_code": "610000",
+      "syogen": {
+        "kasetsu_nendo": "1991",
+        "kyouchou": 239.0,
+        "fukuin": 10.0,
+        "shisetsu": {
+          "meisyou": "中川橋",
+          "furigana": "(ﾅｶｶﾞﾜﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "常磐自動車道"
+        },
+        "kanrisya": {
+          "kubun": "6",
+          "meisyou": "NEXCO東日本",
+          "jimusyo": "三郷管理事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.844710,
+          "keido": 139.841670
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84472,139.83778",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "1992",
+        "kyouchou": 27.4,
+        "fukuin": 7.2,
+        "shisetsu": {
+          "meisyou": "和環橋",
+          "furigana": "(ﾜｶﾝﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道1260号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.844720,
+          "keido": 139.837780
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84482,139.84167",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:01+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1984",
+        "kyouchou": 239.0,
+        "fukuin": 13.7,
+        "shisetsu": {
+          "meisyou": "潮郷橋(下り)",
+          "furigana": "(ｼｵｻﾄﾊﾞｼ(ｸﾀﾞﾘ)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.844820,
+          "keido": 139.841670
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84494,139.83922",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-07-02T15:54:11+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1994",
+        "kyouchou": 244.9,
+        "fukuin": 9.0,
+        "shisetsu": {
+          "meisyou": "潮郷橋右岸取付橋(上り)",
+          "furigana": "(ｼｵｻﾄﾊﾞｼｳｶﾞﾝﾄﾘﾂｹｷｮｳ(ﾉﾎﾞﾘ))"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.844940,
+          "keido": 139.839220
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84497,139.84106",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:01+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1984",
+        "kyouchou": 52.2,
+        "fukuin": 4.0,
+        "shisetsu": {
+          "meisyou": "潮郷橋右岸斜路橋(下り)",
+          "furigana": "(ｼｵｻﾄﾊﾞｼｳｶﾞﾝｼｬﾛｷｮｳ(ｸﾀﾞﾘ)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.844970,
+          "keido": 139.841060
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84517,139.83926",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:01+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1983",
+        "kyouchou": 230.8,
+        "fukuin": 9.0,
+        "shisetsu": {
+          "meisyou": "潮郷橋右岸取付橋(下り)",
+          "furigana": "(ｼｵｻﾄﾊﾞｼｳｶﾞﾝﾄﾘﾂｹｷｮｳ(ｸﾀﾞﾘ)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.845170,
+          "keido": 139.839260
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84528,139.83139",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 10.2,
+        "fukuin": 7.1,
+        "shisetsu": {
+          "meisyou": "境橋",
+          "furigana": "(ｻｶｲﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "市道0760号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.845280,
+          "keido": 139.831390
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84535,139.83815",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-05-21T18:38:21+09:00",
+      "kanrisya_code": "610000",
+      "syogen": {
+        "kasetsu_nendo": "1991",
+        "kyouchou": 341.0,
+        "fukuin": 10.0,
+        "shisetsu": {
+          "meisyou": "八潮東高架橋",
+          "furigana": "(ﾔｼｵﾋｶﾞｼｺｳｶｷﾖｳ)"
+        },
+        "rosen": {
+          "meisyou": "常磐自動車道"
+        },
+        "kanrisya": {
+          "kubun": "6",
+          "meisyou": "NEXCO東日本",
+          "jimusyo": "三郷管理事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.845350,
+          "keido": 139.838150
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84546,139.83821",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-05-21T18:38:39+09:00",
+      "kanrisya_code": "610000",
+      "syogen": {
+        "kasetsu_nendo": "1991",
+        "kyouchou": 341.0,
+        "fukuin": 10.0,
+        "shisetsu": {
+          "meisyou": "八潮東高架橋",
+          "furigana": "(ﾔｼｵﾋｶﾞｼｺｳｶｷﾖｳ)"
+        },
+        "rosen": {
+          "meisyou": "常磐自動車道"
+        },
+        "kanrisya": {
+          "kubun": "6",
+          "meisyou": "NEXCO東日本",
+          "jimusyo": "三郷管理事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.845460,
+          "keido": 139.838210
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84573,139.83742",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-11T14:11:08+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1996",
+        "kyouchou": 13.0,
+        "fukuin": 60.0,
+        "shisetsu": {
+          "meisyou": "溝橋20",
+          "furigana": "(ﾐｿﾞﾊﾞｼ20)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.846270,
+          "keido": 139.836720
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "3"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84574,139.83839",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:28:57+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 7.8,
+        "fukuin": 7.9,
+        "shisetsu": {
+          "meisyou": "市道1264号線橋",
+          "furigana": "(ｼﾄﾞｳｲﾁﾆﾛｸﾖﾝｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道1264号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.845740,
+          "keido": 139.838390
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84600,139.83660",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-11T14:11:08+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1996",
+        "kyouchou": 13.2,
+        "fukuin": 114.0,
+        "shisetsu": {
+          "meisyou": "溝橋19",
+          "furigana": "(ﾐｿﾞﾊﾞｼ19)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.845850,
+          "keido": 139.836590
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "3"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84616,139.83775",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:28:32+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.8,
+        "fukuin": 6.2,
+        "shisetsu": {
+          "meisyou": "市道1255号線橋",
+          "furigana": "(ｼﾄﾞｳｲﾁﾆｺﾞｺﾞｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道1255号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.846160,
+          "keido": 139.837750
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84618,139.83629",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:01+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1994",
+        "kyouchou": 13.3,
+        "fukuin": 16.3,
+        "shisetsu": {
+          "meisyou": "八潮第1交差橋(南)",
+          "furigana": "(ﾔｼｵﾀﾞｲ1ｺｳｻｷｮｳ(ﾐﾅﾐ)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.846180,
+          "keido": 139.836290
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84625,139.83682",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:01+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1996",
+        "kyouchou": 13.0,
+        "fukuin": 94.0,
+        "shisetsu": {
+          "meisyou": "溝橋18",
+          "furigana": "(ﾐｿﾞﾊﾞｼ18)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.846270,
+          "keido": 139.836720
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84677,139.83519",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:01+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1989",
+        "kyouchou": 12.7,
+        "fukuin": 88.4,
+        "shisetsu": {
+          "meisyou": "八条第1交差橋(南)",
+          "furigana": "(ﾊﾁｼﾞｮｳﾀﾞｲ1ｺｳｻｷｮｳ(ﾐﾅﾐ)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.846770,
+          "keido": 139.835190
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84702,139.83540",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:01+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1989",
+        "kyouchou": 12.7,
+        "fukuin": 58.4,
+        "shisetsu": {
+          "meisyou": "八条第1交差橋(北)",
+          "furigana": "(ﾊﾁｼﾞｮｳﾀﾞｲ1ｺｳｻｷｮｳ(ｷﾀ)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.847020,
+          "keido": 139.835400
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84714,139.83471",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-05-21T18:39:32+09:00",
+      "kanrisya_code": "610000",
+      "syogen": {
+        "kasetsu_nendo": "1991",
+        "kyouchou": 368.0,
+        "fukuin": 9.8,
+        "shisetsu": {
+          "meisyou": "八潮橋",
+          "furigana": "(ﾔｼｵﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "常磐自動車道"
+        },
+        "kanrisya": {
+          "kubun": "6",
+          "meisyou": "NEXCO東日本",
+          "jimusyo": "三郷管理事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.847140,
+          "keido": 139.834710
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84723,139.83478",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-05-21T18:39:53+09:00",
+      "kanrisya_code": "610000",
+      "syogen": {
+        "kasetsu_nendo": "1991",
+        "kyouchou": 368.0,
+        "fukuin": 9.8,
+        "shisetsu": {
+          "meisyou": "八潮橋",
+          "furigana": "(ﾔｼｵﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "常磐自動車道"
+        },
+        "kanrisya": {
+          "kubun": "6",
+          "meisyou": "NEXCO東日本",
+          "jimusyo": "三郷管理事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.847230,
+          "keido": 139.834780
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84723,139.83774",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-02-12T15:58:23+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1968",
+        "kyouchou": 4.2,
+        "fukuin": 15.1,
+        "shisetsu": {
+          "meisyou": "八條小橋",
+          "furigana": "(ﾊﾁｼﾞｮｳｺﾊｼ)"
+        },
+        "rosen": {
+          "meisyou": "県道草加流山線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.847210,
+          "keido": 139.837760
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84727,139.83402",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:01+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1995",
+        "kyouchou": 273.7,
+        "fukuin": 9.0,
+        "shisetsu": {
+          "meisyou": "八潮立体高架橋(上り)",
+          "furigana": "(ﾔｼｵﾘｯﾀｲｺｳｶｷｮｳ(ﾉﾎﾞﾘ)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.847270,
+          "keido": 139.834020
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84740,139.83469",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:01+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1987",
+        "kyouchou": 13.3,
+        "fukuin": 23.6,
+        "shisetsu": {
+          "meisyou": "八潮第1交差橋(北)",
+          "furigana": "(ﾔｼｵﾀﾞｲ1ｺｳｻｷｮｳ(ｷﾀ)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.847400,
+          "keido": 139.834690
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84763,139.83332",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:01+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1996",
+        "kyouchou": 13.0,
+        "fukuin": 75.0,
+        "shisetsu": {
+          "meisyou": "溝橋17",
+          "furigana": "(ﾐｿﾞﾊﾞｼ17)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.847910,
+          "keido": 139.833720
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84768,139.83445",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:01+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1989",
+        "kyouchou": 329.6,
+        "fukuin": 9.0,
+        "shisetsu": {
+          "meisyou": "八潮立体高架橋(下り)",
+          "furigana": "(ﾔｼｵﾘｯﾀｲｺｳｶｷｮｳ(ｸﾀﾞﾘ)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.847680,
+          "keido": 139.834450
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84782,139.84122",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1960",
+        "kyouchou": 139.3,
+        "fukuin": 2.3,
+        "shisetsu": {
+          "meisyou": "八條橋側道橋（右）",
+          "furigana": "(ﾊﾁｼﾞｮｳﾊﾞｼｿｸﾄﾞｳｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "県道草加流山線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.847820,
+          "keido": 139.841220
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84788,139.84119",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:00+09:00",
+      "kanrisya_code": "110001",
+      "syogen": {
+        "kasetsu_nendo": "1960",
+        "kyouchou": 139.3,
+        "fukuin": 6.6,
+        "shisetsu": {
+          "meisyou": "八條橋",
+          "furigana": "(ﾊﾁｼﾞﾖｳﾊﾞｼ)"
+        },
+        "rosen": {
+          "meisyou": "県道草加流山線"
+        },
+        "kanrisya": {
+          "kubun": "2",
+          "meisyou": "埼玉県",
+          "jimusyo": "越谷県土整備事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.847880,
+          "keido": 139.841190
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84811,139.83363",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-11T14:11:08+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1996",
+        "kyouchou": 13.0,
+        "fukuin": 90.0,
+        "shisetsu": {
+          "meisyou": "溝橋16",
+          "furigana": "(ﾐｿﾞﾊﾞｼ16)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.847940,
+          "keido": 139.833690
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84815,139.83572",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:30:07+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.1,
+        "fukuin": 4.0,
+        "shisetsu": {
+          "meisyou": "市道1373-2号線橋",
+          "furigana": "(ｼﾄﾞｳｲﾁｻﾝﾅﾅｻﾝ-ﾆｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道1373号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.848150,
+          "keido": 139.835720
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84823,139.83703",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:29:36+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.2,
+        "fukuin": 3.4,
+        "shisetsu": {
+          "meisyou": "市道1373-1号線橋",
+          "furigana": "(ｼﾄﾞｳｲﾁｻﾝﾅﾅｻﾝ-ｲﾁｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道1373号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.847750,
+          "keido": 139.837720
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84833,139.83183",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:01+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1996",
+        "kyouchou": 13.3,
+        "fukuin": 22.8,
+        "shisetsu": {
+          "meisyou": "八条第2交差橋(南)",
+          "furigana": "(ﾊﾁｼﾞｮｳﾀﾞｲ2ｺｳｻｷｮｳ(ﾐﾅﾐ)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.848330,
+          "keido": 139.831830
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84887,139.83042",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:01+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "2003",
+        "kyouchou": 17.4,
+        "fukuin": 4.5,
+        "shisetsu": {
+          "meisyou": "綾瀬川南放水路横断橋",
+          "furigana": "(ｱﾔｾｶﾞﾜﾐﾅﾐﾎｳｽｲﾛｵｳﾀﾞﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.848870,
+          "keido": 139.830420
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2022,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84900,139.83015",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:01+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1992",
+        "kyouchou": 13.3,
+        "fukuin": 25.2,
+        "shisetsu": {
+          "meisyou": "無名橋(4)",
+          "furigana": "(ﾑﾒｲｷｮｳ(4)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.849000,
+          "keido": 139.830150
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2021,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84908,139.83143",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:01+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1989",
+        "kyouchou": 13.3,
+        "fukuin": 43.9,
+        "shisetsu": {
+          "meisyou": "八条第2交差橋(北)",
+          "furigana": "(ﾊﾁｼﾞｮｳﾀﾞｲ2ｺｳｻｷｮｳ(ｷﾀ)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.849080,
+          "keido": 139.831430
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.84963,139.82946",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2025-11-01T00:00:01+09:00",
+      "kanrisya_code": "834800",
+      "syogen": {
+        "kasetsu_nendo": "1992",
+        "kyouchou": 13.3,
+        "fukuin": 114.2,
+        "shisetsu": {
+          "meisyou": "無名橋(10)",
+          "furigana": "(ﾑﾒｲｷｮｳ(10)"
+        },
+        "rosen": {
+          "meisyou": "国道298号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "北首都国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.849630,
+          "keido": 139.829460
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2024,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.85119,139.83579",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:27:11+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.8,
+        "fukuin": 6.4,
+        "shisetsu": {
+          "meisyou": "市道1216号線橋",
+          "furigana": "(ｼﾄﾞｳｲﾁﾆｲﾁﾛｸｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道1216号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.851190,
+          "keido": 139.835790
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.85194,139.83645",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:26:45+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 3.1,
+        "fukuin": 5.3,
+        "shisetsu": {
+          "meisyou": "市道1224号線橋",
+          "furigana": "(ｼﾄﾞｳｲﾁﾆﾆﾖﾝｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道1224号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.851940,
+          "keido": 139.836450
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.85261,139.83465",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:25:28+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.9,
+        "fukuin": 4.7,
+        "shisetsu": {
+          "meisyou": "市道1208号線橋",
+          "furigana": "(ｼﾄﾞｳｲﾁﾆｾﾞﾛﾊﾁｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道1208号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.852610,
+          "keido": 139.834650
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.85418,139.83424",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:25:54+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.9,
+        "fukuin": 4.6,
+        "shisetsu": {
+          "meisyou": "市道1209号線橋",
+          "furigana": "(ｼﾄﾞｳｲﾁﾆｾﾞﾛｷｭｳｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道1209号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.854180,
+          "keido": 139.834240
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.85494,139.83404",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-19T16:27:34+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.9,
+        "fukuin": 4.6,
+        "shisetsu": {
+          "meisyou": "市道1210号線橋",
+          "furigana": "(ｼﾄﾞｳｲﾁﾆｲﾁｾﾞﾛｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道1210号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.854940,
+          "keido": 139.834040
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.85575,139.83387",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-03-31T16:15:32+09:00",
+      "kanrisya_code": "112348",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.9,
+        "fukuin": 5.4,
+        "shisetsu": {
+          "meisyou": "市道1205号線橋",
+          "furigana": "(ｼﾄﾞｳｲﾁﾆｾﾞﾛｺﾞｺﾞｳｾﾝｷｮｳ)"
+        },
+        "rosen": {
+          "meisyou": "市道1205号線"
+        },
+        "kanrisya": {
+          "kubun": "5",
+          "meisyou": "八潮市",
+          "jimusyo": "八潮市"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.855750,
+          "keido": 139.833870
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "8"
+        },
+        "nendo": 2025,
+        "kiroku": {
+          "hantei_kubun": "2"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.85700,139.82989",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-06-12T14:47:36+09:00",
+      "kanrisya_code": "834700",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.3,
+        "fukuin": 22.6,
+        "shisetsu": {
+          "meisyou": "４号0.882kp（東埼道・上）横断",
+          "furigana": "(4ｺﾞｳ0.882kp(ﾄｳｻｲﾄﾞｳ･ﾉﾎﾞﾘ)ｵｳﾀﾞﾝ)"
+        },
+        "rosen": {
+          "meisyou": "国道4号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "大宮国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.857000,
+          "keido": 139.829890
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    },
+    {
+      "shisetsu_id": "35.85712,139.82942",
+      "shisetsu_kubun": 1,
+      "koushin_nichiji": "2026-06-12T14:47:58+09:00",
+      "kanrisya_code": "834700",
+      "syogen": {
+        "kasetsu_nendo": "",
+        "kyouchou": 2.3,
+        "fukuin": 18.7,
+        "shisetsu": {
+          "meisyou": "４号0.888kp（東埼道・下）横断",
+          "furigana": "(4ｺﾞｳ0.888kp(ﾄｳｻｲﾄﾞｳ･ｸﾀﾞﾘ)ｵｳﾀﾞﾝ)"
+        },
+        "rosen": {
+          "meisyou": "国道4号"
+        },
+        "kanrisya": {
+          "kubun": "1",
+          "meisyou": "関東地方整備局",
+          "jimusyo": "大宮国道事務所"
+        },
+        "gyousei_kuiki": {
+          "todoufuken_code": "11",
+          "todoufuken_mei": "埼玉県",
+          "shikuchouson_code": "112348",
+          "shikuchouson_mei": "八潮市"
+        },
+        "ichi": {
+          "ido": 35.857120,
+          "keido": 139.829420
+        }
+      },
+      "tenken": {
+        "syuzen": {
+          "sochi_joukyou": "0"
+        },
+        "nendo": 2023,
+        "kiroku": {
+          "hantei_kubun": "1"
+        }
+      }
+    }
+  ]
+}

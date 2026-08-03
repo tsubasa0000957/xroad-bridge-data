@@ -1,0 +1,31 @@
+
+- jsonファイルの整形
+  - 前提：VS CODEには標準でjsonファイルの整形機能がある
+    - `shift+alt+F`
+    - 右クリック → 「ドキュメントのフォーマット」
+  - jqで整形
+    - `jq . hoge.json > fuga.json`
+      - `.` は入力されたjsonをそのまま返す
+      - `>`で整形結果別ファイルに渡す
+    - 元ファイルを上書きしたいなら
+      - `jq . hoge.json > fuga.tmp && mv fuga.tmp hoge.json`
+      - `jq . hoge.json > hoge.json`は不可
+        - シェルが先にhoge.jsonを空にしてしまう
+        - 
+- jsonファイルの解析
+  - 値を取得
+    - `jq '.KEY' hoge.json`
+  - 入れ子になった値を取得
+    - `jq '.KEY.omake' hoge.json`
+  - 配列の要素を指定して値を取得
+    - `jq '.KEY.result[0]' hoge.json`
+  - jq内部でパイプも使える
+    - `jq '.KEY | length' hoge.json` KEYの要素数を取得
+  - 組込関数について
+    - `keys`キー一覧を出す
+      - `jq '.keys' hoge.json`
+      - `jq '.result[0] | keys' hoge.json`
+    - `type`値の型を調べる
+      - `jq 'result | tyupe' hoge.json`
+    - `has`特定のキーが存在するか確認する
+      - `jq '.result[0] | has("name")' hoge.json`
