@@ -4,9 +4,7 @@ import csv
 
 ## このファイルパスを基準にとってる
 project_root = Path(__file__).resolve().parent.parent
-
-with open(project_root/'data/raw/yashio.json') as json_open:
-    source_data = json.load(json_open)
+json_path = project_root / 'data' / 'raw' / 'yashio.json'
 
 ## 取りたいデータ 任意の項目名とjsonkeyで対応させる
 trg = {
@@ -26,6 +24,11 @@ trg = {
     '更新日時':('koushin_nichiji',)
 }
 
+def load_json(f_path):
+    with open(f_path) as json_open:
+        source_data = json.load(json_open)
+    return source_data
+
 def write_csv(data):
     file_path = project_root / "data" / "processed" / "processed.csv"
     header = list(trg)
@@ -34,17 +37,29 @@ def write_csv(data):
         writer = csv.writer(file)
         writer.writerow(header)
         writer.writerows(data)
-            
-rows = []
-for bridge in source_data['result']:
-    row = []
 
+def convert_bridge_to_row(bridge):
+    row = []
     ## csvの各列について 対応するjsonキーの経路を取得 -> 経路を順に辿る -> rowにappend
     for trg_key in trg:
-        crr_val = bridge
+        curr_val = bridge
         for key in trg[trg_key]:
-            crr_val = crr_val[key]
-        row.append(crr_val)
-    rows.append(row)
+            curr_val = curr_val[key]
+        row.append(curr_val)
+    return row
 
-write_csv(rows)
+def build_csv_rows(bridges):
+    ## 橋梁ごとに行を追加
+    rows = []
+    for bridge in bridges:
+        rows.append(convert_bridge_to_row(bridge))
+    return rows
+
+
+def main():
+    source_data = load_json(json_path)['result']
+    rows = build_csv_rows(source_data)
+    write_csv(rows)
+
+if __name__ == '__main__':
+    main()
