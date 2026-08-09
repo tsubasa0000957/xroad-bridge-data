@@ -40,11 +40,19 @@ def write_csv(data):
 
 def convert_bridge_to_row(bridge):
     row = []
+    err_bridge_name = bridge.get("syogen", {}).get("shisetsu", {}).get("meisyou", "名称不明")
+
     ## csvの各列について 対応するjsonキーの経路を取得 -> 経路を順に辿る -> rowにappend
     for trg_key in trg:
         curr_val = bridge
         for key in trg[trg_key]:
-            curr_val = curr_val[key]
+            try:
+                curr_val = curr_val[key]
+            except KeyError:
+                curr_val = ""
+                print(f"{err_bridge_name} に {key} が存在しないため 空文字を挿入しました")
+                break
+
         row.append(curr_val)
     return row
 
