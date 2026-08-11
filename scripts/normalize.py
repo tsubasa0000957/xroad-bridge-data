@@ -29,14 +29,19 @@ def load_json(f_path):
         source_data = json.load(json_open)
     return source_data
 
-def write_csv(data):
+def write_csv(rows):
     file_path = project_root / "data" / "processed" / "processed.csv"
     header = list(trg)
 
     with open(file_path, mode="w", encoding="utf-8-sig", newline="") as file:
         writer = csv.writer(file)
         writer.writerow(header)
-        writer.writerows(data)
+        writer.writerows(rows)
+
+def write_geojson(feature_collection):
+    file_path = project_root / "data" / "processed" / "processed.geojson"
+    with open(file_path, mode="w", encoding="utf-8", newline="\n") as file:
+        json.dump(feature_collection, file, ensure_ascii=False, indent=4)
 
 def convert_bridge_to_row(bridge):
     row = []
@@ -63,11 +68,52 @@ def build_csv_rows(bridges):
         rows.append(convert_bridge_to_row(bridge))
     return rows
 
+## geojson
+## CSVヘッダとrowの値を対応させ,geojsonのfeature毎にdictを作成
+def convert_row_to_feature(row):
+    properties = dict(zip(trg.keys(), row))
+    latitude = properties["緯度"]
+    longitude = properties["経度"]
+
+    if latitude == "" or longitude == "":
+        geometry = None
+    else:
+        geometry = {
+            "type": "Point",
+            "coordinates": [longitude, latitude],
+        }
+
+    feature = {
+        "type": "Feature",
+        "geometry": geometry,
+        "properties": properties,
+    }
+    return feature
+
+def build_geojson(rows):
+    features = []
+    for row in rows:
+        feature = convert_row_to_feature(row)
+        features.append(feature)
+
+    feature_collection = {
+        "type": "FeatureCollection",
+        "features": features
+    }
+    return feature_collection
+
 
 def main():
+    ## source整形
     source_data = load_json(json_path)['result']
     rows = build_csv_rows(source_data)
+
+    ## csv出力
     write_csv(rows)
+
+    ## geojson出力
+    feature_collection = build_geojson(rows)
+    write_geojson(feature_collection)
 
 if __name__ == '__main__':
     main()
