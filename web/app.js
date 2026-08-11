@@ -1,4 +1,4 @@
-const map = L.map("map").setView([35.82, 139.84], 13);
+const map = L.map("map");
 L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     maxZoom: 19,
     attribution:
@@ -20,9 +20,14 @@ async function loadBridgeData() {
     const response = await fetch("../data/processed/processed.geojson");
     const geojson = await response.json();
 
-    L.geoJSON(geojson, {
+    const bridgeLayer = L.geoJSON(geojson, {
         onEachFeature: bindBridgePopup,
     }).addTo(map);
+
+    const bounds = bridgeLayer.getBounds();
+    if (bounds.isValid()) {
+        map.fitBounds(bounds, { padding: [10, 10] });
+    }
 }
 
 loadBridgeData();
