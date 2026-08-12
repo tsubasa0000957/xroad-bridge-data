@@ -1,10 +1,10 @@
 import json
 from pathlib import Path
 import csv
+import sys
 
 ## このファイルパスを基準にとってる
 project_root = Path(__file__).resolve().parent.parent
-json_path = project_root / 'data' / 'raw' / 'yashio.json'
 
 ## 取りたいデータ 任意の項目名とjsonkeyで対応させる
 trg = {
@@ -32,7 +32,6 @@ def load_json(f_path):
 def write_csv(rows):
     file_path = project_root / "data" / "processed" / "processed.csv"
     header = list(trg)
-
     with open(file_path, mode="w", encoding="utf-8-sig", newline="") as file:
         writer = csv.writer(file)
         writer.writerow(header)
@@ -40,6 +39,7 @@ def write_csv(rows):
 
 def write_geojson(feature_collection):
     file_path = project_root / "data" / "processed" / "processed.geojson"
+
     with open(file_path, mode="w", encoding="utf-8", newline="\n") as file:
         json.dump(feature_collection, file, ensure_ascii=False, indent=4)
 
@@ -104,6 +104,17 @@ def build_geojson(rows):
 
 
 def main():
+    ## 引数精査してpathを設定
+    if len(sys.argv) != 2:
+        print("使い方: python3 scripts/normalize.py <処理対象のJSONパス>", file=sys.stderr)
+        sys.exit(1)
+
+    json_path = Path(sys.argv[1])
+
+    if not json_path.is_file():
+        print(f"ファイルが見つかりません: {json_path}", file=sys.stderr)
+        sys.exit(1)
+
     ## source整形
     source_data = load_json(json_path)['result']
     rows = build_csv_rows(source_data)
