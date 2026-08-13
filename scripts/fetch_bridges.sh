@@ -2,7 +2,7 @@
 set -euo pipefail
 
 CITY_CODE=${1:-}
-PAGE_SIZE=100
+PAGE_SIZE=5000
 OFFSET=0
 
 if [ -z "$CITY_CODE" ]; then
