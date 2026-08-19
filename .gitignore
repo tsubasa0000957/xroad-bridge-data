@@ -1,2 +1,5 @@
 *.tmp
 .env
+.codex/
+.vscode/
+data/26_investigate/**/*.jsonl
